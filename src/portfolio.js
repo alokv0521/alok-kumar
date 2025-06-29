@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Alok's Portfolio",
+  title: "Alok Kumar | Portfolio",
   description:
     "passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -384,20 +384,6 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "isme class 12th ka likhna hai",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
-
-    {
       title: "Indian Institute of Information Technology Bhagalpur",
       subtitle: "B.Tech. in Computer Science and Engineering",
       logo_path: "iiitk_logo.png",
@@ -409,6 +395,18 @@ const degrees = {
       ],
       website_link: "http://iiitbh.ac.in",
     },
+    {
+      title: "Rani Laxmi Bai Memorial School Lucknow",
+      subtitle: "Intermediate in PCM branch",
+      logo_path: "iu_logo.png",
+      alt_name: "RLB",
+      duration: "",
+      descriptions: [
+        "⚡ Completed Higher Secondary with PCM (Physics, Chemistry, Mathematics) from Rani Laxmi Bai Memorial School, Lucknow.",
+        "",
+      ],
+      website_link: "https://www.rlbschools.org/",
+    },
   ],
 };
 
@@ -416,30 +414,30 @@ const certifications = {
   certifications: [
     {
       title: "Servicenow",
-      subtitle: "- Andrew Ng",
+      subtitle: "- Servicenow CSA Certification",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+        "https://drive.google.com/file/d/1JPi4MRNvytZ5NAMIqrBVjpt8NFyKA9yY/view?usp=sharing",
+      alt_name: "servicenow certified",
+      color_code: "#ffffff",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Servicenow",
+      subtitle: "- Servicenow CAD Certification",
+      logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+        "https://drive.google.com/file/d/1E088wV7qdY-G27P9mCOIzWOSipsFFmL5/view?usp=sharing",
+      alt_name: "servicenow certified",
+      color_code: "#ffffff",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
+      title: "Smart India Hackathon",
+      subtitle: "Internal hackathon",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+        "https://drive.google.com/file/d/1gs6w00-q2prkmH6Da4Llgr8jCeqLX9co/view",
+      alt_name: "SIH internal hackthon",
+      color_code: "#00010199",
     },
   ],
 };
