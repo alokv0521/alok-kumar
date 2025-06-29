@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, // Change this to false if you don't want Splash screen.
+  isSplash: false,
 };
 
 //SEO Related settings
@@ -381,34 +381,34 @@ const competitiveSites = {
     },
   ],
 };
+
 const degrees = {
   degrees: [
     {
-      title: "isme class 12th ka likhna hai",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
-
-    {
       title: "Indian Institute of Information Technology Bhagalpur",
       subtitle: "B.Tech. in Computer Science and Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIIT-Bhagalpur",
-      duration: "2021-2025",
+      logo_path: "iiitbgp_logo.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "2021 - 2025",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
       ],
       website_link: "http://iiitbh.ac.in",
     },
+    // {
+    //   title: "Indiana University Bloomington",
+    //   subtitle: "M.S. in Computer Science",
+    //   logo_path: "iu_logo.png",
+    //   alt_name: "Indiana University Bloomington",
+    //   duration: "2021 - 2023",
+    //   descriptions: [
+    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+    //   ],
+    //   website_link: "https://www.indiana.edu/",
+    // },
   ],
 };
 
