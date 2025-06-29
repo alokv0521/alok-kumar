@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Alok Kumar Portfolio",
     type: "website",
-    url: "http://lazyprogrammer.com/",
+    url: "https://alokiiitbh.netlify.app/",
   },
 };
 
@@ -26,7 +26,9 @@ const greeting = {
     "Hi, I'm the Lazy Programmer — too lazy to do things twice, so I automate them 😊. From designing sleek UIs to training deep learning models, I let code do the heavy lifting while I sip coffee and debug life.",
   resumeLink:
     "https://drive.google.com/file/d/1vUl8kvzdJmIjjFGIrmjxn30eBP5TuqJe/view?usp=drive_link",
-  portfolio_repository: "https://github.com/alokv0521/myportfolio",
+  ai_resume_link:
+    "https://drive.google.com/file/d/11XqdRp99DDTLy5VaojsHxtb9U0ESSFTF/view?usp=sharing",
+  portfolio_repository: "https://github.com/alokv0521/alok-kumar",
   githubProfile: "https://github.com/alokv0521",
 };
 
@@ -648,9 +650,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "animated_alok.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Opensource Development.",
+      "I’m active on all major social platforms, feel free to message me, and I’ll respond within 24 hours. I’m open to exciting opportunities and collaborations in AI Agents, Machine Learning, React, and Open Source Development.",
   },
   blogSection: {
     // title: "Blogs",
