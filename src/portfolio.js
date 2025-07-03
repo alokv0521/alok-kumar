@@ -27,7 +27,7 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1vUl8kvzdJmIjjFGIrmjxn30eBP5TuqJe/view?usp=drive_link",
   ai_resume_link:
-    "https://drive.google.com/file/d/11XqdRp99DDTLy5VaojsHxtb9U0ESSFTF/view?usp=sharing",
+    "https://drive.google.com/file/d/1Eo_wkl1Elg5HrPI391a9hqBbK9M1N2Dk/view?usp=sharing",
   portfolio_repository: "https://github.com/alokv0521/alok-kumar",
   githubProfile: "https://github.com/alokv0521",
 };
