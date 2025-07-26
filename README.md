@@ -3,6 +3,8 @@
 Welcome to my portfolio repository! I'm Alok Kumar, a final-year Computer Science student at IIIT Bhagalpur with a strong foundation in full-stack web development, machine learning, and large language model (LLM) integration. This repo showcases my professional journey, academic background, and major technical projects.
 
 ---
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/da8d8a15-5034-469d-ac35-4f3b4d783239" />
+
 
 ## 🚀 About Me
 
